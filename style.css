@@ -1,0 +1,70 @@
+body{
+  font-family:'Roboto Condensed', sans-serif;
+  color: #313335;
+  font-size: 20px;
+  line-height: 1,5;
+  background-color: #F5F5F5;
+  margin: 0
+}
+
+h1,
+h2{
+  color: #6B1E00;
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+}
+
+h1{
+  font-size: 70px;
+  text-align: center;
+}
+
+h2{
+  font-size: 45px;
+  margin-top: 0;
+  }
+
+header{
+  background-color: #CEC4C2;
+  padding: 15px;
+}
+
+.jak-sel-cas,
+.volny-cas,
+.paticka{
+  background-color:#CEC4C2;
+  text-align: right;
+}
+
+.fotka-hlavicka{
+  width: 200px;
+  float: right;
+  border-radius: 40%;
+  margin: 0 0 30px 30px
+}
+
+.fotka-jak-sel-cas,
+.fotka-volny-cas{
+  width: 450px;
+  float: left;
+  margin: 0 50px 30px 0
+}
+
+.fotka-prace{
+  width: 450px;
+  float:right;
+  margin: 0 0 30px 50px
+}
+
+.cestovani{
+  text-align: left;
+}
+
+.cestovani img{
+  width: 32%;
+}
+
+section{
+  padding: 50px 15%;
+  overflow: auto;
+}
